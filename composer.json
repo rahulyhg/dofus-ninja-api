@@ -1,0 +1,23 @@
+{
+    "name": "tiboitel/dofus-ninja-api",
+    "type": "project",
+    "require": {
+        "slim/slim": "3.0",
+        "pdeans/http": "dev-master",
+        "slim/twig-view": "dev-master",
+        "illuminate/database": "^5.8@dev"
+    },
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/"
+		}
+	},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tiboitel",
+            "email": "jules.boitelle@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
