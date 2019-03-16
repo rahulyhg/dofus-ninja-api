@@ -1,14 +1,14 @@
 <?php
 $container = $app->getContainer();
 
-$capsule = new \Illuminate\Database\Capsule\Manager;
+/* $capsule = new \Illuminate\Database\Capsule\Manager;
 $capsule->addConnection($container->get('settings')['database']);
 $capsule->setAsGlobal();
 $capsule->bootEloquent();
 
 $container['database'] = function ($c) use ($capsule) {
 	return $capsule;
-};
+};*/
 
 $container['session'] = function ($c) {
 	return new Session();
@@ -32,4 +32,12 @@ $container['renderer'] = function ($c) {
 
 $container[\App\Controllers\Auth\AuthController::class] = function($c) {
 	return new \App\Controllers\Auth\AuthController($c);
+};
+
+$container[\App\Controllers\Home\HomeController::class] = function($c) {
+	return new \App\Controllers\Home\HomeController($c);
+};
+
+$container[\App\Controllers\Api\ApiController::class] = function($c) {
+	return new \App\Controllers\Api\ApiController($c);
 };
