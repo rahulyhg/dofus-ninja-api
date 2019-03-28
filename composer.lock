@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e9311c6c431c165f2c6431f951c2cb32",
+    "content-hash": "920516d9b9f2010fcbaa9693bb3617b6",
     "packages": [
         {
             "name": "container-interop/container-interop",
@@ -110,12 +110,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/container.git",
-                "reference": "ed3a77404e75b07823890b9388e2dbe2a7cd8be1"
+                "reference": "f2c444b30cc299ed88985337bcf38707948a56d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/container/zipball/ed3a77404e75b07823890b9388e2dbe2a7cd8be1",
-                "reference": "ed3a77404e75b07823890b9388e2dbe2a7cd8be1",
+                "url": "https://api.github.com/repos/illuminate/container/zipball/f2c444b30cc299ed88985337bcf38707948a56d9",
+                "reference": "f2c444b30cc299ed88985337bcf38707948a56d9",
                 "shasum": ""
             },
             "require": {
@@ -147,7 +147,7 @@
             ],
             "description": "The Illuminate Container package.",
             "homepage": "https://laravel.com",
-            "time": "2019-02-26T14:19:30+00:00"
+            "time": "2019-03-20T20:20:13+00:00"
         },
         {
             "name": "illuminate/contracts",
@@ -199,12 +199,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/database.git",
-                "reference": "67c51f820e215fac20bb6f790efb2fe5981f60e6"
+                "reference": "b14e59efa3e6c7db4b079533c399a072d9ecae5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/database/zipball/67c51f820e215fac20bb6f790efb2fe5981f60e6",
-                "reference": "67c51f820e215fac20bb6f790efb2fe5981f60e6",
+                "url": "https://api.github.com/repos/illuminate/database/zipball/b14e59efa3e6c7db4b079533c399a072d9ecae5b",
+                "reference": "b14e59efa3e6c7db4b079533c399a072d9ecae5b",
                 "shasum": ""
             },
             "require": {
@@ -251,7 +251,7 @@
                 "orm",
                 "sql"
             ],
-            "time": "2019-02-28T15:28:23+00:00"
+            "time": "2019-03-26T03:32:06+00:00"
         },
         {
             "name": "illuminate/support",
@@ -259,12 +259,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "2b426a413e7c9da4b08845b71877b5de450293b5"
+                "reference": "67189c520f6d98c9b98d1a2e19b5ad7cfa63da4c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/2b426a413e7c9da4b08845b71877b5de450293b5",
-                "reference": "2b426a413e7c9da4b08845b71877b5de450293b5",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/67189c520f6d98c9b98d1a2e19b5ad7cfa63da4c",
+                "reference": "67189c520f6d98c9b98d1a2e19b5ad7cfa63da4c",
                 "shasum": ""
             },
             "require": {
@@ -312,20 +312,20 @@
             ],
             "description": "The Illuminate Support package.",
             "homepage": "https://laravel.com",
-            "time": "2019-02-26T14:19:30+00:00"
+            "time": "2019-03-20T20:20:13+00:00"
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.16.0",
+            "version": "2.16.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "dd16fedc022180ea4292a03aabe95e9895677911"
+                "reference": "b509524136d579f6b15ad9af4e5bd4533d1ab6c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/dd16fedc022180ea4292a03aabe95e9895677911",
-                "reference": "dd16fedc022180ea4292a03aabe95e9895677911",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/b509524136d579f6b15ad9af4e5bd4533d1ab6c2",
+                "reference": "b509524136d579f6b15ad9af4e5bd4533d1ab6c2",
                 "shasum": ""
             },
             "require": {
@@ -372,7 +372,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2019-03-12T09:31:40+00:00"
+            "time": "2019-03-20T12:20:01+00:00"
         },
         {
             "name": "nikic/fast-route",
@@ -791,12 +791,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/contracts.git",
-                "reference": "fb450641fd0e43647ddc5415f3132276545933ec"
+                "reference": "88c5a7657693a104b354a74692079c9e05d4c345"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/contracts/zipball/fb450641fd0e43647ddc5415f3132276545933ec",
-                "reference": "fb450641fd0e43647ddc5415f3132276545933ec",
+                "url": "https://api.github.com/repos/symfony/contracts/zipball/88c5a7657693a104b354a74692079c9e05d4c345",
+                "reference": "88c5a7657693a104b354a74692079c9e05d4c345",
                 "shasum": ""
             },
             "require": {
@@ -811,6 +811,7 @@
                 "psr/cache": "When using the Cache contracts",
                 "psr/container": "When using the Service contracts",
                 "symfony/cache-contracts-implementation": "",
+                "symfony/event-dispatcher-implementation": "",
                 "symfony/http-client-contracts-implementation": "",
                 "symfony/service-contracts-implementation": "",
                 "symfony/translation-contracts-implementation": ""
@@ -853,7 +854,7 @@
                 "interoperability",
                 "standards"
             ],
-            "time": "2019-03-14T07:32:36+00:00"
+            "time": "2019-03-27T06:28:10+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -1046,17 +1047,60 @@
             "time": "2019-03-07T08:54:57+00:00"
         },
         {
+            "name": "tiboitel/dofus-genetic",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tiboitel/dofus-genetic.git",
+                "reference": "b4d01f5f90abc3a16e61d5a8a066b36a402596dc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tiboitel/dofus-genetic/zipball/b4d01f5f90abc3a16e61d5a8a066b36a402596dc",
+                "reference": "b4d01f5f90abc3a16e61d5a8a066b36a402596dc",
+                "shasum": ""
+            },
+            "require": {
+                "pdeans/http": "dev-master",
+                "php": "^5.4 || ^7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "DofusGenetic\\": "srcs/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Timothee Boitelle",
+                    "email": "tiboitel@student.42.fr"
+                }
+            ],
+            "description": "A genetic algorithm to generate a theorycraft set of equipment for the game Dofus Touch.",
+            "keywords": [
+                "algorithm",
+                "dofus",
+                "genetic",
+                "touch"
+            ],
+            "support": {
+                "source": "https://github.com/tiboitel/dofus-genetic/tree/master",
+                "issues": "https://github.com/tiboitel/dofus-genetic/issues"
+            },
+            "time": "2019-03-28T19:01:25+00:00"
+        },
+        {
             "name": "twig/twig",
             "version": "2.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "5aab10578e1bbb014d7d61b28d23e65336fd091c"
+                "reference": "7597a742b7a5d3d11f4568b0da64e0d94e46efe3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/5aab10578e1bbb014d7d61b28d23e65336fd091c",
-                "reference": "5aab10578e1bbb014d7d61b28d23e65336fd091c",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/7597a742b7a5d3d11f4568b0da64e0d94e46efe3",
+                "reference": "7597a742b7a5d3d11f4568b0da64e0d94e46efe3",
                 "shasum": ""
             },
             "require": {
@@ -1110,7 +1154,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2019-03-16T11:03:28+00:00"
+            "time": "2019-03-23T14:29:24+00:00"
         },
         {
             "name": "zendframework/zend-diactoros",
@@ -1181,7 +1225,8 @@
     "stability-flags": {
         "pdeans/http": 20,
         "slim/twig-view": 20,
-        "illuminate/database": 20
+        "illuminate/database": 20,
+        "tiboitel/dofus-genetic": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

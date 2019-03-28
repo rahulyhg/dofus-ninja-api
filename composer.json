@@ -1,11 +1,15 @@
 {
     "name": "tiboitel/dofus-ninja-api",
     "type": "project",
+  "repositories": [
+	      { "type": "vcs", "url": "https://github.com/tiboitel/dofus-genetic" }
+  	],
     "require": {
         "slim/slim": "3.0",
         "pdeans/http": "dev-master",
         "slim/twig-view": "dev-master",
-        "illuminate/database": "^5.8@dev"
+        "illuminate/database": "^5.8@dev",
+		"tiboitel/dofus-genetic": "dev-master"
     },
 	"autoload": {
 		"psr-4": {
